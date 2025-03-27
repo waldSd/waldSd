@@ -1,19 +1,25 @@
-name: GitHub Metrics
+name: Metrics
 
 on:
+  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  push: {branches: ["main"]}
+
+  # (optional) Run workflow manually
   workflow_dispatch:
 
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: waldSd
+          config_timezone: Europe/Paris
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
