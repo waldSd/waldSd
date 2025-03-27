@@ -66,7 +66,7 @@ Skilled in automation. Currently focused on combining machine learning, software
 
 ### 🧩 Isometric Contribution Calendar
 
-![Isometric Calendar](./metrics.plugin.isocalendar.svg)
+![Metrics](./github-metrics.svg)
 
 
 ## 📂 Projects
