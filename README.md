@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Walid
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=110EF7&background=F8F8F800&width=435&lines=Machine+Learning+Engineer;Loves+Python%2C+AI+and+TinyML;Building+clean+and+clever+systems)](https://git.io/typing-svg)
 Machine Learning Engineer with a strong background in software development and embedded systems.
 
 I enjoy working with machine learning — exploring ideas, building models, and writing clean, purposeful Python code that connects data, algorithms, and real-world applications.I'm also comfortable working close to hardware with C and TinyML, and experienced with data visualization, backend APIs, and model integration.
@@ -14,7 +15,6 @@ Skilled in automation. Currently focused on combining machine learning, software
 - 🐍 Python, PyTorch, FastAPI, Docker
 - ⚡ Embedded systems, TinyML & low-level C programming
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=110EF7&background=F8F8F800&width=435&lines=Machine+Learning+Engineer;Loves+Python%2C+AI+and+TinyML;Building+clean+and+clever+systems)](https://git.io/typing-svg)
 
 ## 🛠️ Tools & Technologies
 
