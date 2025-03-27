@@ -1,7 +1,7 @@
 name: GitHub Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 * * *"}]  # tous les jours à minuit
   push: {branches: ["main"]}
   workflow_dispatch:
 
@@ -12,7 +12,7 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.svg
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
