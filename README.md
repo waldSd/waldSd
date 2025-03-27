@@ -62,6 +62,9 @@ Skilled in automation. Currently focused on combining machine learning, software
 ![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)
 ![ESP32](https://img.shields.io/badge/-ESP32-333?style=flat)
 
+## 🧩 3D Contribution Calendar
+
+[![GitHub 3D Contribution](https://github-contribution-grid.vercel.app/api?username=waldSd&theme=react-dark&flat=1&animation=true)](https://github.com/waldSd)
 
 ## 📂 Projects
 
