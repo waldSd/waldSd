@@ -14,6 +14,8 @@ Skilled in automation. Currently focused on combining machine learning, software
 - 🐍 Python, PyTorch, FastAPI, Docker
 - ⚡ Embedded systems, TinyML & low-level C programming
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=110EF7&background=F8F8F800&width=435&lines=Machine+Learning+Engineer;Loves+Python%2C+AI+and+TinyML;Building+clean+and+clever+systems)](https://git.io/typing-svg)
+
 ## 🛠️ Tools & Technologies
 
 ### 🐍 Python Ecosystem
