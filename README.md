@@ -29,9 +29,6 @@ Machine Learning Engineer specialized in Natural Language Processing (NLP) and A
 ![NLTK](https://img.shields.io/badge/-NLTK-333?style=flat)
 ![Transformers](https://img.shields.io/badge/-Transformers-333?style=flat&logo=huggingface)
 
-### 🧩 Isometric Contribution Calendar
-![Metrics](./github-metrics.svg)
-
 ## 📂 Projects
 
 ## 📫 Find me here
