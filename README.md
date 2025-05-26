@@ -11,7 +11,7 @@ Machine Learning Engineer specialized in Natural Language Processing (NLP) and A
 - 🐍 Python, PyTorch, FastAPI, Docker
 
 ## 🛠️ Tools & Technologies
-
+c docker git opencv pandas python pytorch scikit_learn tensorflow
 ### 🐍 Python Ecosystem
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
