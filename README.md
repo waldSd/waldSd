@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=110EF7&background=F8F8F800&width=435&lines=AI+%26+Robotics+Engineer;Autonomous+Systems+%7C+Perception+%7C+Control;Building+intelligent+machines+that+navigate+the+world)](https://git.io/typing-svg)
 
-Machine Learning Engineer transitioning into **Field Robotics** and **Autonomous Systems**. I design intelligent systems that perceive, reason, and act in the real world — from perception pipelines to robotic navigation and control.
+Machine Learning Engineer - **Field Robotics** and **Autonomous Systems**. I design intelligent systems that perceive, reason, and act in the real world — from perception pipelines to robotic navigation and control.
 
 ## 🚀 What I Do
 - 🤖 **Robotics & Autonomous Systems** — Navigation, control, and path planning
