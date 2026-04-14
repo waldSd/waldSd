@@ -52,6 +52,14 @@ End-to-end platform for AI-assisted clinical decision support.
 - **Wound Care** — Tissue segmentation (U-Net/SegFormer) for chronic wound monitoring
 - Full React/TypeScript interface with patient and professional dashboards
 
+### 🧬 AMADEA — Breast Cancer Survival Prediction *(Final Year Project, CNAM 2024)*
+ML pipeline for survival prediction from high-dimensional genomic data.
+- **Feature selection** on 17,284 genes using iterative ROC optimization (1,500 iterations)
+- Reduction from 17,284 to 173 genes while maintaining discriminative power
+- **Neural network classifier** (fully-connected, 3 hidden layers) trained on selected features
+- 100% accuracy on training set — with honest critical analysis of overfitting risks
+- Full project report available in the repository
+
 ### 💊 Drug Discovery Pipeline *(in progress)*
 AI-accelerated molecular design pipeline.
 - Protein structure prediction with AlphaFold integration
