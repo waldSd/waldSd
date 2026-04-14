@@ -1,55 +1,62 @@
 # 👋 Hi, I'm Walid
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=110EF7&background=F8F8F800&width=435&lines=AI+Engineer+%7C+Healthcare+%26+Medical+Data;Deep+Learning+for+Medical+Imaging;ML+on+Physiological+Signals;Building+AI+that+helps+save+lives)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=110EF7&background=F8F8F800&width=435&lines=AI+%26+Robotics+Engineer;Autonomous+Systems+%7C+Perception+%7C+Control;Building+intelligent+machines+that+navigate+the+world)](https://git.io/typing-svg)
+Data Scientist & AI Engineer with 4+ years of R&D experience, currently focused on applying **Machine Learning and Deep Learning to healthcare and medical data**. I build end-to-end pipelines for medical signal processing, clinical image analysis, and patient similarity modeling — with a strong interest in explainable AI for clinical decision support.
 
-Machine Learning Engineer - **Field Robotics** and **Autonomous Systems**. I design intelligent systems that perceive, reason, and act in the real world — from perception pipelines to robotic navigation and control.
-
-## 🚀 What I Do
-- 🤖 **Robotics & Autonomous Systems** — Navigation, control, and path planning
-- 🛰️ **Perception** — LiDAR processing, sensor fusion, computer vision
-- 🧠 **Applied AI/ML** — Deep learning for robotics and real-world applications
-- 🧱 **Systems Engineering** — ROS2, embedded systems, real-time pipelines
+## 🏥 What I Do
+- 🫀 **Medical Signal Processing** — ECG analysis, physiological time series, anomaly detection
+- 🔬 **Medical Imaging & Vision** — Lesion classification, tissue segmentation, wound monitoring
+- 🧠 **Patient Representation Learning** — Embeddings, latent spaces, patient similarity graphs
+- 📊 **Clinical Data Pipelines** — End-to-end ML pipelines on real medical datasets (PhysioNet, ISIC)
+- 🚀 **MLOps & Deployment** — From research notebook to production-ready API
 
 ## 🛠️ Tools & Technologies
-
-### 🤖 Robotics & Simulation
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/-Gazebo-orange?style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![PCL](https://img.shields.io/badge/-PCL-333?style=flat)
-
-### 🐍 Python Ecosystem  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat)
 
 ### 🧬 Deep Learning & ML
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 
-### ⚙️ Embedded & Hardware
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+### 🏥 Medical AI & Signal Processing
+![WFDB](https://img.shields.io/badge/-WFDB%2FPhysioNet-red?style=flat)
+![UMAP](https://img.shields.io/badge/-UMAP-blueviolet?style=flat)
+![NetworkX](https://img.shields.io/badge/-NetworkX-blue?style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-### 🛠️ Dev & MLOps  
+### 🐍 Python Ecosystem
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat)
+
+### ⚙️ MLOps & Dev
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 📂 Featured Projects  
+### 🌐 Frontend & Visualization
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-### 🛰️ WAB Drone — Autonomous Aerial Platform
-Custom drone with onboard perception for agricultural and inspection applications.
-- Real-time image capture with GPS tagging and object detection
-- Raspberry Pi edge computing for lightweight inference
-- Foundation for visual intelligence in aerial robotics
+## 📂 Featured Projects
 
-### 🧭 Poliglota — AI-Powered Language Learning
-Research platform exploring the intersection of AI, cognition, and self-directed learning.
-- **RAG system** built on classic literature for context-aware exercises
-- Real-time **oral tutor** with GPT-based conversational AI
-- Browser extension for intelligent flashcard generation
+### 🏥 Empathy Health — Medical AI Platform *(in progress)*
+End-to-end platform for AI-assisted clinical decision support.
+- **ECG Analysis** — CNN-based anomaly detection on PhysioNet PTB-XL
+- **Patient Similarity Graphs** — Latent space embeddings + UMAP + graph construction for prototype/atypical patient identification
+- **Dermatology Module** — Skin lesion classification (CNN/MobileNet) on ISIC dataset
+- **Wound Care** — Tissue segmentation (U-Net/SegFormer) for chronic wound monitoring
+- Full React/TypeScript interface with patient and professional dashboards
+
+### 💊 Drug Discovery Pipeline *(in progress)*
+AI-accelerated molecular design pipeline.
+- Protein structure prediction with AlphaFold integration
+- Bayesian optimization for ligand search
+- Virtual screening and molecular docking
+
+## 📫 Let's Connect
+Open to research collaborations, PhD opportunities, and impactful AI for health projects.
